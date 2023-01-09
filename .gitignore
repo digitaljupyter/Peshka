@@ -1,0 +1,6 @@
+config.py
+*.spec
+*.exe
+build
+dist
+*.ico
